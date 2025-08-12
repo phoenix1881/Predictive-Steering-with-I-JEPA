@@ -13,6 +13,6 @@ A deep dive into label-efficient learning for autonomous driving using I-JEPA. P
 - Venkat Kumar Laxmikanth Nemala
 
 ### Link to demos:
-https://drive.google.com/file/d/1KQ2Q6DdwY2mlRaXluGG_HoDV0WUJZdzW/view
-https://drive.google.com/file/d/1szZe35-DaQnRKZE5AUF8ADE9-T6qyRuL/view
+- https://drive.google.com/file/d/1KQ2Q6DdwY2mlRaXluGG_HoDV0WUJZdzW/view
+- https://drive.google.com/file/d/1szZe35-DaQnRKZE5AUF8ADE9-T6qyRuL/view
 
