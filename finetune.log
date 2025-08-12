@@ -1,0 +1,64 @@
+2025-04-26 15:45:42,158 INFO: Loaded I-JEPA encoder with missing keys: [], unexpected keys: []
+2025-04-26 15:46:19,816 INFO: Epoch 1: Train MSE Loss: 0.797599
+2025-04-26 15:46:50,488 INFO: Epoch 2: Train MSE Loss: 0.009436
+2025-04-26 15:47:21,285 INFO: Epoch 3: Train MSE Loss: 0.009357
+2025-04-26 15:47:51,919 INFO: Epoch 4: Train MSE Loss: 0.009241
+2025-04-26 15:48:22,698 INFO: Epoch 5: Train MSE Loss: 0.009472
+2025-04-26 15:48:23,105 INFO: Checkpoint saved: ijepa_finetune_epoch5.pth
+2025-04-26 15:48:53,404 INFO: Epoch 6: Train MSE Loss: 0.009154
+2025-04-26 15:49:23,741 INFO: Epoch 7: Train MSE Loss: 0.009451
+2025-04-26 15:49:54,551 INFO: Epoch 8: Train MSE Loss: 0.009572
+2025-04-26 15:50:25,052 INFO: Epoch 9: Train MSE Loss: 0.009198
+2025-04-26 15:50:55,478 INFO: Epoch 10: Train MSE Loss: 0.009406
+2025-04-26 15:50:55,892 INFO: Checkpoint saved: ijepa_finetune_epoch10.pth
+2025-04-26 16:03:52,848 INFO: Loaded I-JEPA encoder with missing keys: [], unexpected keys: []
+2025-04-26 16:04:25,147 INFO: Epoch 1: Train MAE Loss: 0.251621
+2025-04-26 16:04:55,497 INFO: Epoch 2: Train MAE Loss: 0.110605
+2025-04-26 16:05:25,853 INFO: Epoch 3: Train MAE Loss: 0.184187
+2025-04-26 16:05:56,172 INFO: Epoch 4: Train MAE Loss: 0.069067
+2025-04-26 16:06:26,960 INFO: Epoch 5: Train MAE Loss: 0.112024
+2025-04-26 16:06:27,285 INFO: Checkpoint saved: ijepa_finetune_epoch5.pth
+2025-04-26 16:06:58,073 INFO: Epoch 6: Train MAE Loss: 0.090730
+2025-04-26 16:07:28,371 INFO: Epoch 7: Train MAE Loss: 0.096298
+2025-04-26 16:07:58,664 INFO: Epoch 8: Train MAE Loss: 0.062066
+2025-04-26 16:08:29,099 INFO: Epoch 9: Train MAE Loss: 0.070244
+2025-04-26 16:08:59,455 INFO: Epoch 10: Train MAE Loss: 0.059099
+2025-04-26 16:08:59,795 INFO: Checkpoint saved: ijepa_finetune_epoch10.pth
+2025-04-26 16:09:30,572 INFO: Epoch 11: Train MAE Loss: 0.079733
+2025-04-26 16:10:00,863 INFO: Epoch 12: Train MAE Loss: 0.049810
+2025-04-26 16:10:31,659 INFO: Epoch 13: Train MAE Loss: 0.054155
+2025-04-26 16:11:01,961 INFO: Epoch 14: Train MAE Loss: 0.052157
+2025-04-26 16:11:32,730 INFO: Epoch 15: Train MAE Loss: 0.043529
+2025-04-26 16:11:33,013 INFO: Checkpoint saved: ijepa_finetune_epoch15.pth
+2025-04-26 16:12:03,754 INFO: Epoch 16: Train MAE Loss: 0.037942
+2025-04-26 16:12:34,283 INFO: Epoch 17: Train MAE Loss: 0.036145
+2025-04-26 16:13:04,849 INFO: Epoch 18: Train MAE Loss: 0.038195
+2025-04-26 16:13:35,708 INFO: Epoch 19: Train MAE Loss: 0.037450
+2025-04-26 16:14:06,012 INFO: Epoch 20: Train MAE Loss: 0.046033
+2025-04-26 16:14:06,297 INFO: Checkpoint saved: ijepa_finetune_epoch20.pth
+2025-04-26 16:14:37,014 INFO: Epoch 21: Train MAE Loss: 0.037916
+2025-04-26 16:15:07,330 INFO: Epoch 22: Train MAE Loss: 0.038991
+2025-04-26 16:15:37,864 INFO: Epoch 23: Train MAE Loss: 0.035446
+2025-04-26 16:16:08,367 INFO: Epoch 24: Train MAE Loss: 0.036812
+2025-04-26 16:16:39,099 INFO: Epoch 25: Train MAE Loss: 0.037162
+2025-04-26 16:16:39,409 INFO: Checkpoint saved: ijepa_finetune_epoch25.pth
+2025-04-26 16:17:10,124 INFO: Epoch 26: Train MAE Loss: 0.042403
+2025-04-26 16:17:40,820 INFO: Epoch 27: Train MAE Loss: 0.037393
+2025-04-26 16:18:11,344 INFO: Epoch 28: Train MAE Loss: 0.039362
+2025-04-26 16:18:42,025 INFO: Epoch 29: Train MAE Loss: 0.035406
+2025-04-26 16:19:12,939 INFO: Epoch 30: Train MAE Loss: 0.039696
+2025-04-26 16:19:13,252 INFO: Checkpoint saved: ijepa_finetune_epoch30.pth
+2025-04-26 16:19:43,873 INFO: Epoch 31: Train MAE Loss: 0.036521
+2025-04-26 16:20:14,413 INFO: Epoch 32: Train MAE Loss: 0.041440
+2025-04-26 16:20:45,207 INFO: Epoch 33: Train MAE Loss: 0.036760
+2025-04-26 16:21:15,851 INFO: Epoch 34: Train MAE Loss: 0.038120
+2025-04-26 16:21:46,693 INFO: Epoch 35: Train MAE Loss: 0.033751
+2025-04-26 16:21:47,007 INFO: Checkpoint saved: ijepa_finetune_epoch35.pth
+2025-04-26 16:22:17,478 INFO: Epoch 36: Train MAE Loss: 0.035985
+2025-04-26 16:22:48,281 INFO: Epoch 37: Train MAE Loss: 0.036707
+2025-04-26 16:23:19,103 INFO: Epoch 38: Train MAE Loss: 0.035194
+2025-04-26 16:23:49,796 INFO: Epoch 39: Train MAE Loss: 0.037548
+2025-04-26 16:24:20,349 INFO: Epoch 40: Train MAE Loss: 0.033470
+2025-04-26 16:24:20,664 INFO: Checkpoint saved: ijepa_finetune_epoch40.pth
+2025-04-26 16:24:20,964 INFO: Finetuned model saved: ijepa_finetune_final.pth
+2025-04-27 12:45:00,072 INFO: Loaded I-JEPA encoder with missing keys: [], unexpected keys: []
